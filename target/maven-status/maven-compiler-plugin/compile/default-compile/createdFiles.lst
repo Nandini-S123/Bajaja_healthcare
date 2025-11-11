@@ -1,0 +1,5 @@
+org\example\dto\GenerateWebhookResponse.class
+org\example\repo\QuerySolutionRepository.class
+org\example\Main.class
+org\example\model\QuerySolution.class
+org\example\dto\GenerateWebhookRequest.class
